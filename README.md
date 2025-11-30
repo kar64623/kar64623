@@ -15,3 +15,10 @@ _"Aún no sabes lo que no sabes"_
 <div align="center">
 <img align="center" src="https://i.pinimg.com/564x/5e/9b/99/5e9b99b26affa5da34a31e0280abb063.jpg">
 </div>
+
+---
+
+Mi otro perfil con otros repos:
+[gitea.karimlpg.net] (https://gitea.karimlpg.net/kar)
+
+
