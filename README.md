@@ -19,6 +19,7 @@ _"Aún no sabes lo que no sabes"_
 ---
 
 Mi otro perfil con otros repos:
-[gitea.karimlpg.net] (https://gitea.karimlpg.net/kar)
+[gitea.karimlpg.net](https://gitea.karimlpg.net/kar)
+
 
 
